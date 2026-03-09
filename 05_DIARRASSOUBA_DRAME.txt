@@ -1,0 +1,4 @@
+DIARRASSOUBA Noah
+DRAME Mohamed
+
+VII: Lorsque l'on change de branche grace a git checkout… si auparavant nous avions ajouter et commit dans la branche 1 un fichier X et dans la branche 2 un fichier Y , selon la branche ou l'on va git checkout nous allons voir uniquement les fichier ajouter et commit dans cette branche .
