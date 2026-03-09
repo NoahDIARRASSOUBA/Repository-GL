@@ -36,11 +36,14 @@ public class System_hospitalier {
     private String analyserRequete(Requête requête) {
         
         return "requête analysée";
+        // C'est fonction permette de retourner une chaine de caractère avec en parametre une variable de type requete après son analyse
     }
 
     private String comparerDonnes() {
         
         return "Cluster trouvé";
+
+        // Il s'agit d'une fonction qui retournera "cluster trouver" suite à la comparaison des données
     }
 
 }
